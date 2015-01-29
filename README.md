@@ -1,4 +1,5 @@
 /*program that converts cups to pints*/
+/* I am converting units*/
 #include  <stdio.h>
 int main(void)
 {
